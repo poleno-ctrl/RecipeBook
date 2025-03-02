@@ -1,0 +1,14 @@
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\obj\Debug\net8.0\RecipeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\obj\Debug\net8.0\RecipeBook.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\obj\Debug\net8.0\RecipeBook.AssemblyInfo.cs
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\obj\Debug\net8.0\RecipeBook.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\bin\Debug\net8.0\RecipeBook.exe
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\bin\Debug\net8.0\RecipeBook.deps.json
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\bin\Debug\net8.0\RecipeBook.runtimeconfig.json
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\bin\Debug\net8.0\RecipeBook.dll
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\bin\Debug\net8.0\RecipeBook.pdb
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\obj\Debug\net8.0\RecipeBook.dll
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\obj\Debug\net8.0\refint\RecipeBook.dll
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\obj\Debug\net8.0\RecipeBook.pdb
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\obj\Debug\net8.0\RecipeBook.genruntimeconfig.cache
+C:\Users\nikit\source\repos\RecipeBook\RecipeBook\obj\Debug\net8.0\ref\RecipeBook.dll
